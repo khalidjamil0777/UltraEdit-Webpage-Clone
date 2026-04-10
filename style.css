@@ -7,12 +7,14 @@
 body {
   font-family: "Inter";
 }
+
 .nav {
   position: fixed;
   top: 0;
   background-color: white;
   width: 100%;
 }
+
 .top-nav {
   background-color: #ffd741;
   height: 7vh;
